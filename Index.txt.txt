@@ -2,3 +2,4 @@
 <img src="arquivo_inexistente.jpg" alt="Texto alternativo" title="Outra figura"/>
 1
 2
+3
